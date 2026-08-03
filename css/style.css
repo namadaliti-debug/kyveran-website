@@ -1786,6 +1786,10 @@ p {
 
     position: relative;
 
+    color: #ffffff;
+
+    text-decoration: none;
+
     transition: color .3s ease;
 
 }

@@ -1838,6 +1838,8 @@ p {
 
     font-size: 1.8rem;
 
+    color: var(--color-primary);
+
     transition:
         transform .3s ease,
         color .3s ease;
@@ -1854,9 +1856,9 @@ p {
 
 .footer-bottom {
 
-    color: var(--color-text-muted);
+    color: #ffffff;
 
-    font-size: .9rem;
+    font-size: .9em;
 
     opacity: .8;
 
